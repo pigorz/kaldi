@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-16T03:27:47.659Z" agent="5.0 (Macintosh)" etag="Hdg4AKXZvh5p4Ye_Y2iy" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-20T02:23:54.604Z" agent="5.0 (Macintosh)" etag="vstK2Cj4GP3o_ppN_vxd" version="20.8.20" type="github">
   <diagram name="第 1 页" id="XqaPQaEN6GuPbCgxc5vC">
     <mxGraphModel dx="934" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,11 +7,71 @@
         <mxCell id="FTf-IxsuEyze3aedEXJP-1" value="声码器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="220" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FTf-IxsuEyze3aedEXJP-2" value="wavnet" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FTf-IxsuEyze3aedEXJP-2" value="&lt;div&gt;2016: wavnet&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="150" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FTf-IxsuEyze3aedEXJP-3" value="melgan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="210" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FTf-IxsuEyze3aedEXJP-4" value="&lt;div&gt;vocgan&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="270" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FTf-IxsuEyze3aedEXJP-6" value="FastPitch" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="400" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FTf-IxsuEyze3aedEXJP-7" value="&lt;div&gt;WaveRNN&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="330" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FTf-IxsuEyze3aedEXJP-8" value="&lt;div&gt;&lt;div&gt;WaveGlow&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="380" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FTf-IxsuEyze3aedEXJP-9" value="HiFi-GAN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="440" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FTf-IxsuEyze3aedEXJP-10" value="&lt;a href=&quot;https://www.data-baker.com/open_source.html&quot; target=&quot;_blank&quot;&gt;CSMSC&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="380" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FTf-IxsuEyze3aedEXJP-11" value="Waveglow" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="530" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FTf-IxsuEyze3aedEXJP-12" value="&lt;div&gt;2020：Durian&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="210" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FTf-IxsuEyze3aedEXJP-13" value="2019：transformer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="530" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FTf-IxsuEyze3aedEXJP-14" value="&#xa;		&lt;div title=&quot;Page 1&quot; class=&quot;page&quot;&gt;&#xa;			&lt;div class=&quot;layoutArea&quot;&gt;&#xa;				&lt;div class=&quot;column&quot;&gt;&#xa;					&lt;p&gt;&lt;span style=&quot;font-size: 9.000000pt; font-family: &#39;NimbusRomNo9L&#39;&quot;&gt;non-autoregressive&#xa;&lt;/span&gt;&lt;/p&gt;&#xa;				&lt;/div&gt;&#xa;			&lt;/div&gt;&#xa;		&lt;/div&gt;&#xa;	&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="70" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FTf-IxsuEyze3aedEXJP-15" value="&#xa;		&lt;div title=&quot;Page 1&quot; class=&quot;page&quot;&gt;&#xa;			&lt;div class=&quot;layoutArea&quot;&gt;&#xa;				&lt;div class=&quot;column&quot;&gt;&#xa;					&lt;p&gt;&lt;span style=&quot;font-size: 9.000000pt; font-family: &#39;NimbusRomNo9L&#39;&quot;&gt;autoregressive&#xa;&lt;/span&gt;&lt;/p&gt;&#xa;				&lt;/div&gt;&#xa;			&lt;/div&gt;&#xa;		&lt;/div&gt;&#xa;	&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="430" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FTf-IxsuEyze3aedEXJP-16" value="LJSpeech" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="330" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FTf-IxsuEyze3aedEXJP-17" value="&lt;div&gt;2019：FastSpeech&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="170" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FTf-IxsuEyze3aedEXJP-18" value="2021：FastSpeech2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="260" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FTf-IxsuEyze3aedEXJP-22" value="Durian: Duration informed attention network for speech synthesis" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="210" width="380" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FTf-IxsuEyze3aedEXJP-24" value="Fastspeech 2: Fast and high-quality end-to-end text to speech" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="265" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FTf-IxsuEyze3aedEXJP-25" value="Fastspeech: Fast, robust and controllable text to speech" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="170" width="330" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FTf-IxsuEyze3aedEXJP-27" value="Neural speech synthesis with transformer network" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="835" y="530" width="300" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FTf-IxsuEyze3aedEXJP-28" value="Natural tts synthesis by conditioning wavenet on mel spectrogram pre- dictions" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="490" width="450" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FTf-IxsuEyze3aedEXJP-29" value="&lt;div&gt;2018：&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="490" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
